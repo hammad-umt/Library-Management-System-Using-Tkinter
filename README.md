@@ -24,9 +24,9 @@ This is a Python-based desktop application that provides a user-friendly interfa
 
 ## 📁 File Structure
 LibraryManagementSystem
--app_gui.py # GUI code
--library_logic.py # Contains classes: Book, Ebook, Library, DigitalLibrary
-- README.md # This file
+- app_gui.py - GUI code
+- library_logic.py - Contains classes: Book, Ebook, Library, DigitalLibrary
+- README.md - This file
 
 ## 🚀 How to Run
 1. Make sure you have Python installed.
