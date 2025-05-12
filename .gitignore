@@ -1,0 +1,6 @@
+# Ignore virtual environment directories
+venv/
+__pycache__/
+
+# Add any other files
+
